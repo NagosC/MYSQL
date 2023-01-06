@@ -41,13 +41,13 @@ CREATE TABLE TELEFONE(
  -- colocando dados na tabela clientes
 
 insert into cliente values(null,'João','M','joao@gmail.com','882818203');
-insert into cliente values(null,'Guilherme','M','abacaximaldito@gmail.com','37247347378');
+insert into cliente values(null,'Guilherme','M','abacaxi@gmail.com','37247347378');
 insert into cliente values (null,'Carlos','M','carlindomau@gmail.com','382347272'),
-(null,'Bianca','F','bianquinhaboqueteparafuso@hotmail.com','382838458'),
-(null,'larrisa','F','larrsinhafaztudo@hotmail.com','327837251'),
+(null,'Bianca','F','bianquinha@hotmail.com','382838458'),
+(null,'larrisa','F','larrsa@hotmail.com','327837251'),
 (null,'Poze do Rodo','M','mcpozedorodo@gmail.com','477281292'),
-(null,'Lucas Domingos','M','omaismachodeagudos@gmail.com','482837182'),
-(null,'Carla','F','carlapesodecaminhao@gmail.com','4812281821');
+(null,'Lucas Domingos','M','lucas@gmail.com','482837182'),
+(null,'Carla','F','carla@gmail.com','4812281821');
 insert into cliente values(null,'Natyzinha','F','natyzinhamaldadepura@gmail.com','448718218');
 
 
@@ -57,12 +57,12 @@ insert into cliente values(null,'leozão','M','leolimpabem@gmail.com','323218218
 insert into endereco values(null,'Rua carlinhos maia','Vila andorinha','Agudos','SP',1);
 insert into endereco values(null,'Rua cacete','Vila saco','Agudos','SP',2),
 (null,'Rua bandeirantes','Rocinha','Rio de Janeiro','RJ',5),
-(null,'Rua mooncock','Vila madalena','Bauru','SP',6),
+(null,'Rua moon','Vila madalena','Bauru','SP',6),
 (null,'Rua padre fábio de melo','Morro do alemão','boituva','SP',7),
 (null,'Rua mamonas assasinas','Donald Trump','Maimi','FL',8),
-(null,'Rua jair messias bolsonaro','Forças Armadas','Brasilia','DF',9),
-(null,'Rua luis inácio lula da silva','Lava jato','Brasilia','DF',10),
-(null,'Rua MC carol','Fode macacooo','terezina','PI',11),
+(null,'Rua Getulio vargas','CENTRO','Brasilia','DF',9),
+(null,'Rua treze de setembro','CENTRO','Brasilia','DF',10),
+(null,'Rua Paulo VI','Santa cecilia','terezina','PI',11),
 (null,'Rua amaciante e parafusadeira','Hack','Rio branco','AC',12);
 
 
